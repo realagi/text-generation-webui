@@ -1,4 +1,4 @@
-# Text generation web UI
+# Text generation web UI (RealAGI Flavored)
 
 A Gradio web UI for Large Language Models.
 
